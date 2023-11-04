@@ -1,5 +1,6 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a first-year PhD student at MIT's Computer Science and Artificial Intelligence Laboratory ([CSAIL](https://www.csail.mit.edu/)). I am excited about developing machine learning methods that extends human knowledge ("AI for science").
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before MIT, I worked at the AI-drug discovery company [Cellarity](https://cellarity.com/) as a Machine Learning Scientist. I obtained a two master's degrees in Statistics and Neuroscience at the University of Oxford as part of the [Rhodes Scholarship](https://en.wikipedia.org/wiki/Rhodes_Scholarship) where I worked with [Yee Whye Teh]() on geometric deep learning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+I also interned at [BCG Gamma](https://www.bcg.com/), [Genomics plc](https://www.genomicsplc.com/), the [Max Planck Institute](https://www.mpg.de/en), and the [German Parliament](https://www.bundestag.de/en).
