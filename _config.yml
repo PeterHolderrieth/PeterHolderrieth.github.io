@@ -172,6 +172,11 @@ collections:
   projects:
     output: false #change to true if you want a project category
     permalink: /projects/:path/
+  music:
+    defaults:
+      layout: post
+    output: true #change to true if you want a project category
+    permalink: /music/:path/
 
 announcements:
   enabled: false
