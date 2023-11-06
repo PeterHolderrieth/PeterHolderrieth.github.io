@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://PeterHolderrieth.github.io/PeterHolderrieth/sitemap.xml
+Sitemap: https://PeterHolderrieth.github.io/sitemap.xml
