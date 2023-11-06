@@ -1,16 +1,19 @@
+- title: "String Quartet"
+  description: "A piece for a string quartet + guitar that I wrote in 2020. The most complex piece that I have ever written. Thanks to my friends that agreed on practising it and recording it!"
+  spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3TdxeiTHqPoy7yqveLfh83?utm_source=generator" width="100%" height="250" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+
 - title: "Symphonic Orchestra"
   description: "I had the great pleasure of having several of my pieces performed by symphonic orchestra on stage. A truly inspiring experience."
   spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0Xmfq2xhSmsH9xFUIBUDnE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
 
-- title: "String Quartet"
-  description: "A piece for a string quartet + guitar that I wrote at the last two months of my time in Bonn. The piece that I am probably most proud of."
-  spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3TdxeiTHqPoy7yqveLfh83?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
-
-- title: "Acoustic guitar songs"
-  description: "Since the beginning of 2022, I started to record small acoustic guitar songs myself. Disclaimer: I am not a professional music producer :).
+- title: "Graffiti of dreaming spires (ongoing work)"
+  description: "Since the beginning of 2023, I started to record a acoustic guitar album myself. The songs remember experiences that are important to me - many from my time in Oxford."
   spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2PZEoecvPKbF1mQS38NERm?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
 
-- title: "Hip hop remix of Beethoven's 5th Symphony"
-  description: "One of my musical heros is Beethoven - I reshuffled its most famous piece and transferred it into the 21st century ;-)."
-  spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7eg4gM4mR8AtzKcjpzBh4S?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
+- title: "Hip hop remix of Beethoven's 5th Symphony - Musical joke"
+  description: "One of my musical heros is Beethoven. I reshuffled its most famous piece and transferred it into the 21st century."
+  spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7eg4gM4mR8AtzKcjpzBh4S?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'
 
+- title: "Acoustic guitar songs"
+  description: ""
+  spotify_embed: '<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5w6M9i5qQC9u1cTRroGyhY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'

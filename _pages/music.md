@@ -2,7 +2,7 @@
 layout: page
 title: music
 permalink: /music/
-description: I am also a passionate musician and composer of music. Find below a list of musical projects that I have done over the years. The number of my listeners is not big. So you can make a difference :)
+description: I am also a passionate guitarist and composer. Find below a list of musical projects that I have done over the years. The number of my listeners is not big. So you can make a difference :)
 nav: true
 nav_order: 2
 horizontal: false
@@ -11,7 +11,7 @@ horizontal: false
 <style>
   /* Add margin between sections */
   .music-project {
-    margin-bottom: 20px; /* Adjust the margin as needed */
+    margin-bottom: 30px; /* Adjust the margin as needed */
   }
 
   /* Style section headers with a smaller font size and bold */
@@ -20,6 +20,8 @@ horizontal: false
     font-weight: bold;
   }
 </style>
+
+<hr> <!-- Add the horizontal line here -->
 
 <!-- Display music projects -->
 <div class="music-projects">

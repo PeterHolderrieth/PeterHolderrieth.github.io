@@ -107,7 +107,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Asdasdasd
+  ___________
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -158,6 +158,8 @@ disqus_shortname: al-folio # put your disqus shortname
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 # external_sources:
+# - name: "Morph Blog"
+#     rss_url: "https://morph.so/blog/the-personal-ai-proof-engineer/rss.xml"
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -186,7 +188,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 4 # leave blank to include all the blog posts
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
