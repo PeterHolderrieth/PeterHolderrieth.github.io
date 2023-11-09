@@ -2,7 +2,7 @@
 layout: page
 title: music
 permalink: /music/
-description: I am also a passionate guitarist and composer. Find below a list of musical projects that I have done over the years. The number of my listeners is not big. So you can make a difference :)
+description: I am also a passionate guitarist and composer. Find below a list of musical projects that I have done over the years. I don't have many listeners. So you can make a difference :)
 nav: true
 nav_order: 2
 horizontal: false
