@@ -6,7 +6,7 @@ subtitle: <em>PhD student at MIT</em>
 
 profile:
   align: right
-  image: starnberg.jpeg
+  image: gfalls.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>MIT CSAIL, 32 Vassar St</p>
