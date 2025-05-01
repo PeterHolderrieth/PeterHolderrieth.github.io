@@ -1,0 +1,12 @@
+# Check installations:
+ruby -v
+gem -v
+
+# Install if not done already:
+gem install bundler jekyll
+
+# If not done already: 
+bundle install
+
+# Command to host locally:
+jekyll serve
