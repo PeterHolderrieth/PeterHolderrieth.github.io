@@ -22,7 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a **final-year PhD student** at [CSAIL](https://www.csail.mit.edu/) at [MIT](https://mit.edu/), advised by [Tommi Jaakkola](https://scholar.google.com/citations?user=Ao4gtsYAAAAJ&hl=en) working on deep generative models. During my PhD, I also interned at [Meta AI](https://ai.meta.com/blog/meta-fair-research-new-releases/), working with [Yaron Lipman](https://scholar.google.com/citations?user=vyteiT4AAAAJ&hl=en) and [Ricky Chen](https://scholar.google.com/citations?user=7MxQd6UAAAAJ&hl=en) on the GenAI team, and at [NVIDIA](https://research.nvidia.com/labs/genair/), working with [Arash Vahdat](https://research.nvidia.com/labs/genair/author/arash-vahdat/) and [Julius Berner](https://research.nvidia.com/labs/genair/author/julius-berner/) on the [FastGen](https://github.com/NVlabs/FastGen) team.
 
-Before MIT, I earned an **MSc in Statistics** and an **MSc in Neuroscience** at the [University of Oxford](https://www.ox.ac.uk/) supported by a [Rhodes Scholarship](https://en.wikipedia.org/wiki/Rhodes_Scholarship) where I worked with [Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/) and with [Stephen Smith](https://scholar.google.com/citations?user=gRptb5UAAAAJ&hl=en). I graduated with a **BSc in Mathematics** from the [University of Bonn](https://www.hcm.uni-bonn.de/) where I worked with [Andreas Eberle](https://scholar.google.de/citations?user=5sfw6SkAAAAJ&hl=de) on stochastic differential equations. In the past, I also worked or interned at [BCG](https://www.bcg.com/), at the [Max Planck Institute](https://www.mpg.de/en), at several Biotech/AI startups ([Cellarity](https://cellarity.com/), [Genomics plc](https://www.genomicsplc.com/)), and at the [German Parliament](https://www.bundestag.de/en). Originally, I am from the wonderful small town [Schwaigern](https://en.wikipedia.org/wiki/Schwaigern), Germany. Besides my work, I have a passion for [writing music](https://open.spotify.com/artist/5PoZcHhqf9mDwgrmIXt83i) and playing guitar/piano in various jazz and rock bands.
+Before MIT, I earned an **MSc in Statistics** and an **MSc in Neuroscience** at the [University of Oxford](https://www.ox.ac.uk/) supported by a [Rhodes Scholarship](https://en.wikipedia.org/wiki/Rhodes_Scholarship) where I worked with [Yee Whye Teh](https://www.stats.ox.ac.uk/~teh/) and with [Stephen Smith](https://scholar.google.com/citations?user=gRptb5UAAAAJ&hl=en). I graduated with a **BSc in Mathematics** from the [University of Bonn](https://www.hcm.uni-bonn.de/) where I worked with [Andreas Eberle](https://scholar.google.de/citations?user=5sfw6SkAAAAJ&hl=de) on stochastic differential equations. In the past, I also worked or interned at [BCG](https://www.bcg.com/), at the [Max Planck Institute](https://www.mpg.de/en), at several Biotech/AI startups ([Cellarity](https://cellarity.com/), [Genomics plc](https://www.genomicsplc.com/)), and at the [German Parliament](https://www.bundestag.de/en). Originally, I am from the wonderful small town [Schwaigern](https://en.wikipedia.org/wiki/Schwaigern), Germany. Besides my work, I have a passion for [writing music]({{ '/music/' | relative_url }}) and playing guitar/piano in various jazz and rock bands.
 
 <div class="about-section">
 <div class="section-rail"><span>Methods</span></div>
@@ -74,8 +74,8 @@ Before MIT, I earned an **MSc in Statistics** and an **MSc in Neuroscience** at 
   </div>
   <div class="stack-group">
     <div class="stack-label">Language modeling</div>
-    <div class="stack-item"><a href="https://arxiv.org/abs/2604.09784" target="_blank" rel="noopener">Discrete Flow Maps</a></div>
     <div class="stack-item"><a href="https://arxiv.org/abs/2412.03487" target="_blank" rel="noopener">Kinetic-Optimal Discrete Flow Matching</a></div>
+    <div class="stack-item"><a href="https://arxiv.org/abs/2604.09784" target="_blank" rel="noopener">Discrete Flow Maps</a></div>
   </div>
   <div class="stack-group">
     <div class="stack-label">World modeling</div>
@@ -102,7 +102,7 @@ Before MIT, I earned an **MSc in Statistics** and an **MSc in Neuroscience** at 
 <div class="teaching-cards">
   <div class="teaching-card">
     <div class="teaching-text">
-      <a class="teaching-title" href="https://diffusion.csail.mit.edu/2026/index.html">Introduction to Flow Matching and Diffusion Models</a>
+      <a class="teaching-title" href="https://diffusion.csail.mit.edu/2026/index.html">MIT 6.S184: Intro to Flow Matching and Diffusion Models</a>
       <p>I created and taught this <span class="stat-highlight">MIT course on modern generative modeling</span>. The lectures have received <span class="stat-highlight">more than 100,000 YouTube views</span> and have been used by researchers and practitioners around the world to learn about diffusion and flow-matching models.</p>
     </div>
     <a class="teaching-thumb" href="https://diffusion.csail.mit.edu/2026/index.html">
