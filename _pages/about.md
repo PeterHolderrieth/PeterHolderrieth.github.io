@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <em>Final-year PhD student at MIT</em>
+subtitle: <em>Computer Science PhD student at MIT CSAIL</em>
 
 profile:
   align: right
