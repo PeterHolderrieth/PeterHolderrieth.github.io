@@ -2,7 +2,7 @@
 layout: page
 title: music
 permalink: /music/
-description: I am also a passionate guitarist and love writing music. Find below a list of musical works that I have written over the years. I don't have many listeners. So you can make a difference :) I am also playing in the band <em>Indigo</em> with whom I play regularly in the Boston area.
+description: I am also a passionate guitarist and love writing music. Find below a list of musical works that I have written over the years. I don't have many listeners. So you can make a difference :) I am also part of the band <em>Indigo</em> with whom I play regularly in the Boston area.
 nav: true
 nav_order: 2
 horizontal: false
