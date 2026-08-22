@@ -103,7 +103,7 @@ Before MIT, I earned an **MSc in Statistics** and an **MSc in Neuroscience** at 
   <div class="teaching-card">
     <div class="teaching-text">
       <a class="teaching-title" href="https://diffusion.csail.mit.edu/2026/index.html">MIT 6.S184: Intro to Flow Matching and Diffusion Models</a>
-      <p>I created and taught this <span class="stat-highlight">MIT course on modern generative modeling</span>. The lectures have received <span class="stat-highlight">more than 100,000 YouTube views</span> and have been used by researchers and practitioners around the world to learn about diffusion and flow-matching models.</p>
+      <p>I created and taught this <span class="stat-highlight">MIT course on modern generative modeling</span> for 2 years. The lectures have received <span class="stat-highlight">more than 100,000 YouTube views</span> and have been used by researchers and practitioners around the world to learn about diffusion and flow-matching models.</p>
     </div>
     <a class="teaching-thumb" href="https://diffusion.csail.mit.edu/2026/index.html">
       <img src="{{ '/assets/img/enabling_practitioners/class_teaching_photographs.jpg' | relative_url }}" alt="Lecturing on flow models to a full classroom at MIT" loading="lazy">
