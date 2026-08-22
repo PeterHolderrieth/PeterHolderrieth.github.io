@@ -692,6 +692,11 @@ footer.sticky-bottom {
         }
       }
 
+      .award-line {
+        color: orange;
+        margin-top: 0.2em;
+      }
+
       .title {
         font-weight: bolder;
       }
@@ -796,6 +801,10 @@ footer.sticky-bottom {
       }
     }
   }
+}
+
+.publications.selected-publications ol.bibliography li .award-line {
+  color: var(--global-theme-color);
 }
 
 // Rouge Color Customization
